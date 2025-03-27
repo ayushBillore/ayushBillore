@@ -9,7 +9,7 @@
   
 - 👯 I’m looking to collaborate on **IoT, Embedded Systems-based projects**
   
-- 🤔 I’m looking for help with **VLSI Design and FPGA Programming**
+- 🤔 I’m looking for help with **VLSI Design and Advance DSA**
   
 - 💬 Ask me about **Java, C, Embedded Systems, IoT, and Computer Vision**
   
