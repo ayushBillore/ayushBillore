@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **Java, C, Embedded Systems, IoT, and Computer Vision**
   
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-billore-aaab49251) | **ayush121@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-billore-aaab49251) | **ayushbillore121@gmail.com**
   
 - 😄 Pronouns: **He/Him**
   
